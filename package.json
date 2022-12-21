@@ -1,6 +1,6 @@
 {
   "name": "tsguessnum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "typescript guess a number game",
   "main": "index.js",
   "type": "module",
