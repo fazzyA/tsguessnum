@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from 'inquirer';
 let guessNum = Math.floor(Math.random() * 10 + 1);
 const num = async () => {
